@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ragnar Gulin. I'm a UX designer 5 with a background in psychology, combined with skills in UI and front-end development 8. My diverse background allows me to create user-centered designs that are not only functional 6 and user-friendly 3, but also aesthetically pleasing.</p>
+<p align="left">My name is Ragnar Gulin. I'm a UX designer with a background in psychology, combined with skills in UI and front-end development. My diverse background allows me to create user-centered designs that are not only functional and user-friendly, but also aesthetically pleasing.</p>
 
 ###
 
