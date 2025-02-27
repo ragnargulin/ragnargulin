@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently deepening my knowledge in front end-development<br>🎯 Goals: Finding employment in a field where I can combine my interests in UX, front end and psychology<br>🎲 Fun fact: I've traveled to / lived in 30+ countries</p><br>📫 How to reach me: <a href="https://ragnargulin.se/" target="_blank"> ragnargulin.se</a> or <a href="mailto:ragnarnilsgulin@gmail.com">ragnarnilsgulin@gmail.com</a>
+<p align="left">📚 I'm currently deepening my knowledge in front end-development<br>🎯 Goals: Finding employment in a field where I can combine my interests in UX, front end and psychology<br>🎲 Fun fact: I've traveled to / lived in 30+ countries</p><br>📫 How to reach me: <a href="https://ragnargulin.se/" target="_blank"> ragnargulin.se</a> or <a href="mailto:ragnarnilsgulin@gmail.com">ragnarnilsgulin@gmail.com</a>
 
 ###
 
